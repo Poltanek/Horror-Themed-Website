@@ -1,21 +1,24 @@
-MIT License
+# Horror Website
 
-Copyright (c) 2025 Adam Tanweer
+## Project Overview
+This is a horror-themed website designed to provide an eerie and immersive experience for visitors. It features interactive horror stories, a cursed image gallery, a horror-themed blog, and various creepy interactive elements to keep users engaged. 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Features
+- **Horror Stories Section**: Includes short horror stories, a "Choose Your Fate" interactive story, and AI-generated horror prompts.
+- **Cursed Gallery**: A collection of eerie images and GIFs with subtle motion effects.
+- **Horror Blog**: Covers urban legends, haunted places, creepypastas, and horror book/movie reviews.
+- **Interactive Horror Elements**:
+  - Ghostly chatbot that responds in cryptic messages.
+  - Horror name generator.
+  - Random horror story generator.
+  - Glitch effects and hidden surprises.
+- **Discussion Area**: Comment sections and a small forum for horror fans.
+- **Easter Eggs & Secrets**: Hidden pages, cryptic riddles, and flickering shadow figures.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript (with animations & effects)
+- **Backend**: Node.js / Python (for interactive features & AI generation)
+- **Database**: Firebase / MongoDB (for storing user stories and comments)
+- **Hosting**: Netlify / Vercel / Self-hosted
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Installation & Setup
